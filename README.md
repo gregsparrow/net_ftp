@@ -1,0 +1,1 @@
+.NET library for ftp connection. Now support only passive connection. Сan transfer files between servers. Support most of the Extensions to FTP described in to RFC 3659.
